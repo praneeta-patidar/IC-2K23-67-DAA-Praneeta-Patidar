@@ -149,12 +149,4 @@ So, the PRINT statement runs 100 times
 
 **Topic:** Database Indexes – How B-Trees Help MySQL and PostgreSQL Find Data Faster
 
-**Blog:** [Read the blog on Medium](## DAA Lab Blog
-
-**Topic:** Database Indexes – How B-Trees Help MySQL and PostgreSQL Find Data Faster
-
-**Blog:** [Read the blog on Medium](## DAA Lab Blog
-
-**Topic:** Database Indexes – How B-Trees Help MySQL and PostgreSQL Find Data Faster
-
 **Blog:** [Read the blog on Medium](https://medium.com/@praneetapurvi/from-table-scans-to-tree-searches-how-database-indexes-make-data-retrieval-faster-82c5d9a9955e?postPublishedType=initial)
